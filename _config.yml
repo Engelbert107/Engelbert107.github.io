@@ -1,21 +1,21 @@
 # Site settings
-title: Another Blog
+title: Engelbert Tchinde Wamba
 url: "http://engelbert107.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+  Welcome to my website!
 
 # Your information
-email: your_email@example.com
-author: your_name
+email: engelberttchinde96@gmail.com
+author: Engelbert Tchinde Wamba
 avatar: "https://github.com/engelbert107/engelbert107.github.io/blob/gh-pages/photos/engelbert_portrait.png?raw=true"
-profile: One sentence introducing yourself.
+profile: I am masters student.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
   Email: "mailto:engelberttchinde96@gmail.com"
-  GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
+  GitHub: "https://github.com/Engelbert107"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
