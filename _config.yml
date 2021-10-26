@@ -10,7 +10,7 @@ description: >
 email: engelberttchinde96@gmail.com
 author: Engelbert Tchinde Wamba
 avatar: "https://github.com/engelbert107/engelbert107.github.io/blob/gh-pages/photos/engelbert_portrait.png?raw=true"
-profile: I am masters student.
+profile: Welcome to my website! Iam .
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
@@ -28,8 +28,8 @@ excerpt_separator: <!--more-->
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
-    Category: /category/
-    Donate: https://laobubu.net/donate.html
+    #Category: /category/
+    #Donate: https://laobubu.net/donate.html
 
 permalink: /archivers/:title
 plugins:
