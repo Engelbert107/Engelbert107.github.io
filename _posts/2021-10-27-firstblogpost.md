@@ -6,4 +6,4 @@ permalink: /posts/first-post
 ---
 Hello - I am Engelbert. I like to learn new things.
 
-This is the me!
+This is me!
