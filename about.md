@@ -5,7 +5,7 @@ permalink: /about/
 nocomments: true
 ---
 
-Hi! I'm Engelbert Tchinde, Data scientist with a background in Computer Science,  Applied Mathematics, Machine Learning, Deep Learning (Computer Vision, NLP).
+Hi! I'm Engelbert Tchinde, Data scientist with a background in Computer Science,  Applied Mathematics, Machine Learning, Deep Learning (Computer Vision, Natural Language Processing).
 
 My expertise in these fields lies in data analysis, data visualisation, statistical learning, data engineering and data modelling. However, I am interested in a range of topics involving technical know-how.
 
