@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Remote sensing intro"
+title: "Remote sensing introduction"
 date: 2021-10-27 16:30:45
 permalink: /posts/first-post
 ---
